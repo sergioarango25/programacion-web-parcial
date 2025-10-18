@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # parcial-vue
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -36,3 +37,6 @@ npm run dev
 ```sh
 npm run build
 ```
+=======
+# programacion-web-parcial
+>>>>>>> 5a07962d63a578f41fad07ccb7a391a95682a6e8
